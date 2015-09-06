@@ -9,4 +9,7 @@ Now the script parses you bash_hisrtory file for lines (commands) containing "ap
 The purpose of this is that you can run the new bash files to install all of the packages that you had on a previous setup. 
 
 Finally the script will do the same thing if you have zsh_history file.
+
+*NOTE*
+The packages.sh is example of the output after running it on my machine.
 	
